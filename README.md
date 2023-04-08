@@ -10,5 +10,5 @@ This repository contains python automation scripts for Cloud
 
 ## Contributing to this project
 
-To contribute to this project keep the rules found in our CONTRIBUTING.md document. Even if this is your first open source contribution, anyone from novice to expert, is welcome to contribute to this project.
+To contribute to this project keep the rules found in our [CONTRIBUTING.md](https://github.com/FaithKovi/Automation-with-python/blob/main/CONTRIBUTING.md) document. Even if this is your first open source contribution, anyone from novice to expert, is welcome to contribute to this project.
 
