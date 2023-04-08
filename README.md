@@ -1,6 +1,6 @@
 # Automation-with-python
 
-This repository contains python automation scripts for AWS Cloud
+This repository contains python automation scripts for Cloud
 
 ## VPC
 - [x] Create VPCs and Subnets
